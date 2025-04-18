@@ -7,7 +7,7 @@ It helps team leads monitor RM-wise activity, visit efficiency, and rejection ra
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot.png)
+https://github.com/wajeeha58/-Seller-Super-Auto-Performance-Dashboard/blob/main/screenshot.png 
 
 ---
 
